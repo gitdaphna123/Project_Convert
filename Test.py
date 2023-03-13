@@ -38,3 +38,5 @@ def main():
     print(user_value())
 
 main()
+
+print(2)
